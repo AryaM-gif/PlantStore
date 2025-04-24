@@ -1,0 +1,25 @@
+.Admin{
+    width: 600px;
+    height: 450px;
+    background-color: cadetblue;
+    box-shadow: black 2px solid;
+    margin-left:400px;
+    margin-top: 70px;
+    /* box-shadow: 35px 15px 15px bisque; */
+    border: 5px solid burlywood;
+    /* float: top; */
+    color: black;
+}
+.Admin:hover{
+    zoom: 1;
+
+}
+.Agap{
+    width: 565px;
+    margin-left: 8px;
+    height: 50px;
+    /* border: 2px black solid; */
+}
+
+
+

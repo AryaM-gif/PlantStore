@@ -1,0 +1,618 @@
+.home {
+  /* background-color: white; */
+
+  width: 100%;
+  height: auto;
+  border: 10px;
+}
+
+.navbar {
+  background-color: #1e683f;
+  width: 100%;
+  height: 50px;
+}
+
+
+.LOGOBOX {
+  width: 160px;
+  height: 100px;
+  background-color: rgb(30, 104, 63);
+  float: left;
+  margin-top: -19px;
+  margin-right: -1000px;
+  border: none;
+  font-size: larger;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  color: white;
+}
+
+.LogoIcon {
+  width: 40px;
+  height: 40px;
+  color: white;
+  margin-top: -1px;
+}
+
+.RnavHome {
+  background-color: rgb(30, 104, 63);
+  width: 480px;
+  height: 100px;
+  float: right;
+  margin-top: 10px;
+  margin-right: 80px;
+}
+
+.BH {
+  background-color: rgb(30, 104, 63);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  border: none;
+}
+
+.BtnAdmin {
+  background-color: rgb(30, 104, 63);
+  float: right;
+
+  width: 50px;
+  margin-top: 21px;
+  margin-right: 40px;
+}
+
+.BtnLike {
+  background-color: rgb(30, 104, 63);
+  /* margin: 5px; */
+  /* font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  border: none; */
+  /* width: 200px; */
+}
+
+.BtnCart {
+  background-color: rgb(30, 104, 63);
+  /* font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  border: none;
+  margin: -31px;
+  width: 250px; */
+}
+
+.BtnLoginH {
+  background-color: rgb(30, 104, 63);
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+  border: none;
+  margin: 5px;
+  margin-top: 9px;
+  /* float: right; */
+  margin-right: -194px;
+}
+
+.BtnLoginH:hover {
+  color: black;
+  /* background-color: white; */
+}
+
+/* BODY */
+.LikeB {
+  /* width: 65px; */
+  /* height: 35px; */
+  /* text-decoration: none; */
+  /* color: black; */
+  /* border-color: black; */
+  /* background-color:  rgb(118, 165, 118); */
+  cursor: pointer;
+  border-radius: 25px;
+
+
+}
+
+
+.CartBHome {
+
+  cursor: pointer;
+  border-radius: 25px;
+
+}
+
+.cart {
+  width: 25px;
+  height: 25px;
+}
+
+.cartAdd {
+  width: 25px;
+  height: 25px;
+}
+
+
+.SearchH {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  margin-bottom: 30px;
+  width: 1000px;
+  height: 25px;
+  float: left;
+  margin-left: 180px;
+}
+
+.SearchIcon {
+  float: right;
+  margin-right: -100px;
+}
+
+.PIC {
+  overflow: auto;
+  white-space: nowrap;
+  /* width: 500px; */
+
+}
+
+.Thome {
+  /* padding-top: 40px; */
+  float: left;
+  background-color: white;
+  width: 100%;
+  height: 535px;
+  border-radius: 10px;
+  /* background-color: #333; */
+  overflow: auto;
+  white-space: nowrap;
+
+}
+
+.Lpic {
+  float: left;
+  width: 1000px;
+  height: 460px;
+  /* margin-left: 10px; */
+  /* margin-right: 50px; */
+  /* border-radius: 10px; */
+  /* margin-top: 30px; */
+  /* background-color: #1e683f; */
+  /* border: solid  #1e683f 2px;  */
+}
+
+.Lpic1 {
+  /* margin-top: 30px; */
+  height: 500px;
+  width: 1050px;
+  /* border: solid  #1e683f 2px;  */
+  /* border-radius: 10px; */
+  /* margin-left: 20px; */
+}
+
+.Lpic2 {
+  float: left;
+  height: 500px;
+  width: 1009px;
+  margin-top: 15px;
+  margin-left: 50px;
+  position: relative;
+}
+
+.Lpic3 {
+  width: 1000px;
+  /* margin-top: 30px; */
+  /* margin-right: 10px; */
+  height: 500px;
+  /* border: solid  #1e683f 2px;  */
+  /* border-radius: 10px; */
+
+}
+
+.Rpic {
+
+  width: 600px;
+  height: 260px;
+  padding-right: 20px;
+  float: right;
+  margin-top: 140px;
+  border-radius: 10px;
+}
+
+.Bright {
+
+  background-color: #1e683f;
+  width: 100%;
+  height: 100%;
+
+
+}
+
+.product {
+  background-color: #1e683f;
+  width: 100%;
+  height: 650px;
+
+
+}
+
+.cilmber {
+  width: 290px;
+  background-color: rgb(255, 255, 255);
+  height: 455px;
+  margin: 20px;
+  padding-left: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  box-shadow: black;
+  border: none;
+
+}
+
+.Bleft {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 30px;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+  ;
+  border-radius: 10px
+}
+
+;
+
+
+
+.category {
+  font-size: 50px;
+  color: aliceblue;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.Type {
+  font-family: 'Times New Roman', Times, serif;
+  size: 10px;
+}
+
+.note {
+  position: absolute;
+  right: 1px;
+  /* align-items: center; */
+  /* float: top; */
+  /* color: rgb(30, 104, 63); */
+  color: black;
+
+  font-family: Roboto;
+  font-size: large;
+  font-style: oblique;
+  margin-top: 2px;
+  /* margin-right:10px; */
+  font-size: 40px;
+  height: 50px;
+  width: 340px;
+}
+
+.NotePlants {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+  font-style: normal;
+  color: black;
+  margin-top: 19px;
+
+
+
+}
+
+.note1 {
+  align-items: center;
+  color: black;
+  font-family: Serif;
+  font-size: 18px;
+  /* background-color: yellow; */
+  margin-top: 40px;
+  width: 50%;
+  margin-left: -10px;
+  margin-right: 20px;
+  width: 750px;
+  height: 300px;
+  float: right;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+.cat1 {
+  border-color: white;
+  margin-right: 3px;
+  width: 266px;
+  height: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+}
+
+.div {
+  background-color: #1e683f;
+  height: 700px;
+
+
+}
+
+.Center {
+  width: 100%;
+  height: 100px;
+  background-color: #1e683f;
+}
+
+.CATEGORY {
+  color: aliceblue;
+  font-family: 'Times New Roman', Times, serif;
+  box-shadow: black;
+}
+
+.pname {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 80px;
+}
+
+.CartP {
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+  width: 200px;
+  text-decoration: none;
+  cursor: pointer;
+
+}
+
+.heart {
+  /* size: 100px; */
+  width: 30px;
+  height: 30px;
+  /* background-color: yellowgreen; */
+}
+
+.unlike {
+  width: 17px;
+  height: 17px;
+}
+
+.logo {
+  float: top;
+  height: 10px;
+  width: 10px;
+  size: 100px;
+
+
+}
+
+.Bottom {
+  width: 100%;
+  height: 100px;
+  float: bottom;
+  background-color: #1e683f;
+}
+
+.Bottom {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  width: 100%;
+  height: auto;
+}
+
+.container:hover {
+  color: aliceblue;
+}
+
+.logoImg {
+  width: 60px;
+  height: 50px;
+}
+
+.containerIMG {
+  position: relative;
+  width: 250px;
+  height: 250px;
+  box-shadow: black;
+}
+
+.Imga1 {
+  width: 250px;
+  height: 250px;
+  margin-top: 5px;
+}
+
+.overlayIMG {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 250px;
+  width: 250px;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: antiquewhite;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.containerIMG:hover .overlayIMG {
+  opacity: 1;
+}
+
+.Imga2 {
+  width: 250px;
+  height: 250px;
+}
+
+.navbar {
+  background-color: black;
+  overflow: hidden;
+  /* position: fixed;  */
+  bottom: 0;
+  width: 100%;
+  height: 20px;
+  /* margin-top: 10px; */
+}
+
+/* Style the links inside the navigation bar */
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+/* Change the color of links on hover */
+.navbar a:hover {
+  background-color: white;
+  color: black;
+}
+
+/* Add a green background color to the active link */
+.navbar a.active {
+  background-color: #999999;
+  color: white;
+}
+
+/* Hide the link that should open and close the navbar on small screens */
+.navbar .icon {
+  display: none;
+}
+
+
+
+
+.Bproduct:hover {
+
+  transform: scale(1.1);
+
+
+}
+
+.writing {
+  color: white;
+  /* margin-top: 50px; */
+  /* background-color: #999999; */
+  width: 700px;
+  margin-left: 700px
+}
+
+.Category {
+  width: 500px;
+  height: 30px;
+  background-color: white;
+  margin-top: 30px;
+  border: none;
+
+}
+
+.SearchIcon {
+  width: 28px;
+  height: 29px;
+  background-color: aliceblue;
+  float: left;
+  margin-left: -1028px;
+  margin-top: 30px;
+
+}
+
+.tab.H {
+  overflow: hidden;
+  margin-left: 30px;
+  /* margin-right: 5px; */
+  width: 1300px;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button.H {
+  background-color: #0d2c1b;
+  float: center;
+  border: 1px solid black;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  width: 500px;
+  margin-right: 5px;
+  text-decoration: none;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  color: whitesmoke;
+
+}
+
+/* Change background color of buttons on hover */
+.tab.H button:hover {
+  background-color: white;
+  color: black;
+  border: #1e683f;
+}
+
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: white;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+.fa {
+  font-size: 50px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.fa:hover.H {
+  color: darkblue;
+}
+
+.tablinks {
+  border: 1px solid black;
+  margin-right: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  transition: .2s;
+}
+
+.tablinks:hover {
+  background-color: white;
+  zoom: inherit;
+  color: black;
+  transform: scale(1.1);
+}
+
+.B {
+  margin-top: -50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* input[type=text] {
+  width: 120px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  border: black 2px solid;
+  margin-top: 25px;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+  width: 50%;
+} */

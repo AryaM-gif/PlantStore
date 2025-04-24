@@ -1,0 +1,113 @@
+.BodyDIS{
+    width: 100%;
+    height: 100%;
+    background-color: azure;
+}
+/* .cilmberDIS{
+    width: 500px;
+    height: 500px;
+    background-color: aliceblue;
+    display: inline;
+    flex-wrap: wrap;
+    float: top;
+
+} */
+
+
+.AboutProd{
+  /* background-color: wheat; */
+  /* float: left; */
+  /* width: 500px; */
+  /* height: 500px; */
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-stretch: expanded;
+  font-size-adjust: inherit;
+}
+
+  .PnameDI{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-decoration: underline;
+  }
+  .DIS{
+    /* background-color: yellow; */
+    width: 750px;
+    height: 500px;
+    float: right;
+    float: top;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    margin-top: -520px;
+    margin-right: 20px;
+
+  }
+  .CartDis{
+    width: 200px;
+    height: 32px;
+    text-decoration: none;
+    color: black;
+    border-color: black;
+    background-color: rgb(118, 165, 118);
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    border-radius: 25px;
+  }
+  .LikeDIS{
+    width: 150px;
+    height: 32px;
+    text-decoration: none;
+    color: black;
+    border-color: black;
+    background-color: rgb(118, 165, 118);
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    border-radius: 25px;
+    
+  }
+  img.sticky {
+ 
+    position: relative;
+    margin-right: -100px;
+    width: 150px;
+    height: 150px;
+    float: top;
+    float:right;
+    box-shadow: black;
+    
+  }
+  .PclDIS{
+    width: 600px;
+    height: 500px;
+    margin-top: 50px;
+    
+  
+  
+  }
+  .Imga1 {
+    width: 250px;
+    height: 250px;
+  }
+  
+  .overlayIMG {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 250px;
+    width: 250px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: antiquewhite;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .containerIMG:hover .overlayIMG {
+    opacity: 1;
+  }
+  
+  .Imga2 {
+    width: 250px;
+    height: 250px;
+  }

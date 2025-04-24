@@ -1,0 +1,69 @@
+.likeproduct-list{
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    border: 10px;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+
+
+.Like{
+ height:100%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.Lp{
+    width: 300px;
+    background-color:white;
+    height: 500px;
+    margin: 40px;
+    padding-left: 10px;  
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+
+}
+.LIKEB{
+    width: 95px;
+    height: 35px;
+    text-decoration: none;
+    color: black;
+    border-color: black;
+    background-color: rgb(118, 165, 118);
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 20px
+   
+}
+.CartB{
+    width: 155px;
+    height: 35px;
+    text-decoration: none;
+    color: black;
+    border-color: black;
+    background-color: rgb(118, 165, 118);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    cursor: pointer;
+}
+.unlike{
+    width: 17px;
+    height: 17px;
+  }
+  .likeprod{
+    margin-left: 500px;
+    margin-top: 25px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .NOlike{
+    margin-left: 400px;
+margin-top: 80px;
+
+  }

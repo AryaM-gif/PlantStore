@@ -1,0 +1,14 @@
+.Body{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.BtnLogin{
+    margin: -1px;
+}
+
+.cilmberCAT{
+    height: 510px;
+}

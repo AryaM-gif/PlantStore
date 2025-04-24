@@ -1,0 +1,70 @@
+.Cartproduct-list
+{
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    border: 10px;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+
+
+.Cart{
+    /* float:center; */
+    height:100%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.Cp{
+    width: 280px;
+    background-color:rgb(168, 230, 196);
+    height: 510px;
+    margin: 20px;
+    padding-left: 10px;  
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    
+   
+ 
+}
+
+.CartB{
+    width: 155px;
+    height: 35px;
+    text-decoration: none;
+    color: black;
+    border-color: black;
+    /* background-color: rgb(118, 165, 118); */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    cursor: pointer;
+}
+.YourCart{
+    color: white;
+    margin-left: 500px;
+    margin-top: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Imgecart{
+    float:center;
+    margin-left: 450px;
+}
+.NOcart{
+    margin-left: 400px;
+margin-top: 80px;
+
+  }
+/* .Quantity{
+    background-color: yellowgreen;
+    width: 50px;
+    height: 50px;
+} */
+/* .nav{
+    background-color: rgb(78, 97, 158);
+    height: 250px;
+} */
