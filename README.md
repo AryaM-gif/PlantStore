@@ -1,4 +1,4 @@
-# 🌿 PlantStore – Plant E-Commerce Frontend (React)
+#  PlantStore – Plant E-Commerce Frontend (React)
 
 **PlantStore** is the frontend interface of an e-commerce website designed for selling plant-related products. Built with React, it provides features like product browsing, user login/signup, cart and wishlist management, and a user-friendly responsive UI.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🖼️ Features
+##  Features
 
 - 🏠 Home page with grid-based product layout
 - 🔍 View products with price and image
